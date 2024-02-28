@@ -1,0 +1,9 @@
+let divi = document.getElementById("div");
+divi.style.backgroundColor = "yellow";
+divi.style.margin = "20px";
+divi.style.padding = "10px";
+divi.style.fontSize = "18px";
+divi.style.fontWeight = "bold";
+divi.style.height = "200px";
+divi.style.width = "300px";
+divi.style.color = "blue";
